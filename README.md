@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
 <h3 align="center">A passionate computer science and engineering with specialization in artificial intelligence</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/woman-working-desk-with-laptop_889272-6758.jpg?w=740">
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-programmer-developed-website-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-developer-web-development-pack-design-animations-5304702.mp4">
 
 - 🌱 I’m currently learning **Machine learning, deep learning**
 
